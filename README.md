@@ -1,0 +1,1 @@
+xo-recent-post-slider
